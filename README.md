@@ -78,8 +78,16 @@ Below are some, but not necessarily all, of the key points we will consider duri
     - A working link to the hosted files (your GitHub Pages url)  
     - Section for Technical and Design Achievements
 
+<img width="1736" height="1222" alt="image" src="https://github.com/user-attachments/assets/ca194117-7b85-4f5d-b073-d1c282f2e0b6" />
+
+
 Technical Achievement Description -- 12  
+
+I used D3.js and JavaScript to create multiple SVG shapes, including circles, rectangles, lines, and polygons. I also implemented an interactive feature where if users click on the sun, it changes colors from yellow and orange 
+
 Design Achievement Description -- 12
+
+I designed a  house visualization using different shapes and colors to create a normal house scene. I used a light blue background to represent the sky, a brown roof, and a green ground line to make the visualization more visually appealing.
 
 Remember, it is up to *you* to define what constitutes a technical and design achievements.
 Be ambitious as these are designed to allow you to shape your learning.
