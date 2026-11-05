@@ -87,7 +87,7 @@ I used D3.js and JavaScript to create multiple SVG shapes, including circles, re
 
 Design Achievement Description -- 12
 
-I designed a  house visualization using different shapes and colors to create a normal house scene. I used a light blue background to represent the sky, a brown roof, and a green ground line to make the visualization more visually appealing.
+I designed a  house visualization using different shapes and colors to create a normal house scene. I used a light blue background to represent the sky, a brown roof, and a green ground line to make the visualization more easy on the eye. 
 
 Remember, it is up to *you* to define what constitutes a technical and design achievements.
 Be ambitious as these are designed to allow you to shape your learning.
